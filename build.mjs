@@ -54,6 +54,9 @@ const RECIPE_HINT = /레시피|만들기|만드는|요리|황금|비법|초간�
 const DESC_AD = /유료광고|유료 광고|공동구매|#공구|협찬/;
 function judge(v) {
   const t = v.title;
+  // 제목에 한글이 없으면 뺀다(2026-09-13, 사장님). 영어로 한식을 소개하는 채널·「Find 3 differences」 게임 쇼츠가
+  // 조회수순 상위를 덮었다. 해시태그만 영어인 건 한글이 남아 있으니 통과.
+  if (!/[가-힣]/.test(t)) return { status: 'excluded', reason: 'non_korean_title' };
   for (const [re, reason] of EXCLUDE) if (re.test(t)) return { status: 'excluded', reason };
   // 설명에 유료광고·공동구매 표시가 있으면 사람이 본다 — 레시피 영상에 붙은 협찬 고지일 수도 있다.
   if (DESC_AD.test(v.description || '')) return { status: 'needs_review', reason: 'ad_or_sponsored' };
@@ -458,6 +461,8 @@ const videos = [...byId.values()]
       if (r.ingredients) row.ingredients = r.ingredients;
       if (r.tags) row.tags = { ...row.tags, ...r.tags };
     }
+    // 한글 없는 제목은 사람이 승인했더라도 뺀다 — 1·2차 검수 때는 이 규칙이 없었다.
+    if (!/[가-힣]/.test(v.title)) row.review = { status: 'excluded', reason: 'non_korean_title' };
     counts[row.review.status] += 1;
     return row;
   })

@@ -1,0 +1,29 @@
+# 하루 한 번(06:00 KST) 레시피 영상 피드를 종합해 videos.json을 갱신한다.
+# YouTube Data API 키는 저장소 secret YOUTUBE_API_KEY에만 둔다 — 앱에는 절대 넣지 않는다.
+# 키가 없으면 RSS만으로 돈다(새 영상 15개/채널).
+name: build-feed
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: build-feed
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node build.mjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: commit
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add videos.json state.json channels.json review-queue.json
+          git diff --cached --quiet || git commit -m "feed: $(TZ=Asia/Seoul date +%Y-%m-%d)"
+          git push

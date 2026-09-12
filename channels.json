@@ -1159,5 +1159,50 @@
     "category_hint": "side_dish",
     "last_synced_at": null,
     "subscribers": 54400
+  },
+  {
+    "channel_id": "UCmxEBPh0oT2kWhEj-dc4jXw",
+    "channel_name": "부산아지매레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": null,
+    "subscribers": 208000
+  },
+  {
+    "channel_id": "UCU_9UGoDcrSFYwyIs0iokKA",
+    "channel_name": "혼자사는키큰언니",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 75100
+  },
+  {
+    "channel_id": "UCdzRetklJZcznLAjW0pHgpQ",
+    "channel_name": "열혈집밥러",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 30100
+  },
+  {
+    "channel_id": "UCQ9qxrZs2QY5vf5uiLs79xw",
+    "channel_name": "은의 주방 eun kitchen",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": null,
+    "subscribers": 10200
+  },
+  {
+    "channel_id": "UCre2ExXiu5CxSY9N2nZe3Rw",
+    "channel_name": "오물조물심여사 Omul-jomul Mrs,sim",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": null,
+    "subscribers": 104000
   }
 ]

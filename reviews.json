@@ -1,0 +1,606 @@
+{
+  "_readme": "검수 오버레이. 사람이 정한 값이 build.mjs의 자동 판정을 이긴다. status: approved|needs_review|excluded. dish는 앱이 붙이는 요리 이름(유튜브 제목은 그대로 둔다). actualCookMinutes는 영상 길이가 아니라 실제 조리 시간 — 영상 설명·본문에 근거가 있을 때만. 2026-09-12 1차: Claude가 제목+설명으로 판정, 영상 자체는 보지 않았다.",
+  "unnFLlJoee0": {
+    "status": "approved",
+    "reason": "manual: 김밥 레시피(태그 #바삭김밥)",
+    "dish": "바삭 김밥",
+    "tags": {
+      "occasion": [
+        "snack",
+        "meal"
+      ]
+    }
+  },
+  "8zdYCV6QkhE": {
+    "status": "approved",
+    "reason": "manual: 귤 통조림 만들기",
+    "dish": "귤 통조림",
+    "ingredients": [
+      "귤"
+    ],
+    "tags": {
+      "occasion": [
+        "dessert"
+      ]
+    }
+  },
+  "Sa9RdY7TVnk": {
+    "status": "approved",
+    "reason": "manual: 그릭요거트 샐러드",
+    "dish": "그릭요거트 샐러드",
+    "ingredients": [
+      "요거트"
+    ],
+    "tags": {
+      "occasion": [
+        "healthy"
+      ],
+      "method": [
+        "salad"
+      ],
+      "equipment": [
+        "no_heat"
+      ]
+    }
+  },
+  "traLpWyDbB4": {
+    "status": "approved",
+    "reason": "manual: 순두부 짬뽕",
+    "dish": "순두부 짬뽕",
+    "ingredients": [
+      "순두부"
+    ],
+    "tags": {
+      "occasion": [
+        "meal",
+        "drinking_food"
+      ],
+      "method": [
+        "soup"
+      ],
+      "equipment": [
+        "pot"
+      ]
+    }
+  },
+  "wILkDGDkFu0": {
+    "status": "approved",
+    "reason": "manual: LA갈비",
+    "dish": "LA갈비",
+    "ingredients": [
+      "소고기"
+    ],
+    "tags": {
+      "occasion": [
+        "guest"
+      ],
+      "method": [
+        "grill"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "qqkdJh4nNjI": {
+    "status": "approved",
+    "reason": "manual: LA갈비 2편",
+    "dish": "LA갈비",
+    "ingredients": [
+      "소고기"
+    ],
+    "tags": {
+      "occasion": [
+        "guest"
+      ],
+      "method": [
+        "grill"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "SFSyP4AJCb0": {
+    "status": "approved",
+    "reason": "manual: 부추 짜박이",
+    "dish": "부추 짜박이",
+    "tags": {
+      "occasion": [
+        "side_dish"
+      ]
+    }
+  },
+  "gph4t4uLyJs": {
+    "status": "approved",
+    "reason": "manual: 편의점 김밥(명란·낫또)",
+    "dish": "명란 김밥 · 낫또 김밥",
+    "tags": {
+      "occasion": [
+        "snack",
+        "meal"
+      ]
+    }
+  },
+  "oEMt3ILbj6U": {
+    "status": "approved",
+    "reason": "manual: 우거지 된장국",
+    "dish": "우거지 된장국",
+    "tags": {
+      "occasion": [
+        "meal",
+        "side_dish"
+      ],
+      "method": [
+        "soup"
+      ],
+      "equipment": [
+        "pot"
+      ]
+    }
+  },
+  "Z7Aj3J-KcHs": {
+    "status": "approved",
+    "reason": "manual: 제목은 낚시, 본문은 지도리 우동 레시피",
+    "dish": "지도리 우동",
+    "ingredients": [
+      "닭고기",
+      "대파",
+      "우동면"
+    ],
+    "tags": {
+      "occasion": [
+        "meal"
+      ],
+      "method": [
+        "noodle"
+      ],
+      "equipment": [
+        "pot"
+      ]
+    }
+  },
+  "pQb5r01FXeY": {
+    "status": "approved",
+    "reason": "manual: 고추장찌개(#GochujangJjigae)",
+    "dish": "고추장찌개",
+    "tags": {
+      "occasion": [
+        "meal"
+      ],
+      "method": [
+        "soup"
+      ],
+      "equipment": [
+        "pot"
+      ]
+    }
+  },
+  "hG5goOZpRUA": {
+    "status": "approved",
+    "reason": "manual: 목살 꽈리고추 볶음(본문 재료)",
+    "dish": "목살 꽈리고추 볶음",
+    "ingredients": [
+      "목살",
+      "꽈리고추",
+      "마늘"
+    ],
+    "tags": {
+      "occasion": [
+        "meal",
+        "drinking_food"
+      ],
+      "method": [
+        "stir_fry"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "QB05ufLv9SI": {
+    "status": "approved",
+    "reason": "manual: 무화과 리코타 토스트",
+    "dish": "무화과 허니 리코타 토스트",
+    "ingredients": [
+      "식빵",
+      "꿀"
+    ],
+    "tags": {
+      "occasion": [
+        "dessert",
+        "snack"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "kPE-6gP8N_4": {
+    "status": "approved",
+    "reason": "manual: 광고 오탐(Bread의 ad). 바나나 브레드 티라미수",
+    "dish": "바나나 브레드 티라미수",
+    "ingredients": [
+      "바나나"
+    ],
+    "tags": {
+      "occasion": [
+        "dessert"
+      ],
+      "method": [
+        "baking"
+      ],
+      "equipment": [
+        "oven"
+      ]
+    }
+  },
+  "2kJBfUi2jNg": {
+    "status": "approved",
+    "reason": "manual: 광고 오탐. 애플파이 시나몬롤",
+    "dish": "애플파이 시나몬롤",
+    "ingredients": [
+      "사과"
+    ],
+    "tags": {
+      "occasion": [
+        "dessert"
+      ],
+      "method": [
+        "baking"
+      ],
+      "equipment": [
+        "oven"
+      ]
+    }
+  },
+  "cDjkKGvo5J8": {
+    "status": "approved",
+    "reason": "manual: 레시피 쇼츠(전체 영상 kPE-6gP8N_4)",
+    "dish": "바나나 브레드 티라미수",
+    "ingredients": [
+      "바나나"
+    ],
+    "tags": {
+      "occasion": [
+        "dessert"
+      ],
+      "method": [
+        "baking"
+      ],
+      "format": "inspiration"
+    }
+  },
+  "PJvAuPadti4": {
+    "status": "approved",
+    "reason": "manual: 레시피 쇼츠",
+    "dish": "바나나 푸딩 브라우니",
+    "ingredients": [
+      "바나나"
+    ],
+    "tags": {
+      "occasion": [
+        "dessert"
+      ],
+      "method": [
+        "baking"
+      ],
+      "format": "inspiration"
+    }
+  },
+  "CatFsQSZLls": {
+    "status": "approved",
+    "reason": "manual: 레시피 쇼츠",
+    "dish": "저당 마틸다 초콜릿 케이크",
+    "tags": {
+      "occasion": [
+        "dessert"
+      ],
+      "method": [
+        "baking"
+      ],
+      "format": "inspiration"
+    }
+  },
+  "tKf9jr2nlE0": {
+    "status": "approved",
+    "reason": "manual: 레시피 쇼츠",
+    "dish": "패션후르츠 요거트 케이크",
+    "ingredients": [
+      "요거트"
+    ],
+    "tags": {
+      "occasion": [
+        "dessert"
+      ],
+      "method": [
+        "baking"
+      ],
+      "format": "inspiration"
+    }
+  },
+  "fU41-Z89Fbc": {
+    "status": "excluded",
+    "reason": "manual: 맛집 방문(출장 중 배고파)"
+  },
+  "ELSlTWKFPj0": {
+    "status": "excluded",
+    "reason": "manual: 맛집 방문(출장 중 배고파)"
+  },
+  "xPA-eOmAIQA": {
+    "status": "excluded",
+    "reason": "manual: 맛집 방문(출장 중 배고파)"
+  },
+  "9EluU0KG98s": {
+    "status": "excluded",
+    "reason": "manual: 여행 먹방"
+  },
+  "39WiCEK1_Kw": {
+    "status": "excluded",
+    "reason": "manual: 여행 먹방"
+  },
+  "rBGxrsfk0aI": {
+    "status": "excluded",
+    "reason": "manual: 제품 특가 광고(누룽지죽)"
+  },
+  "A2u0GZZhxxM": {
+    "status": "excluded",
+    "reason": "manual: 음식 아이템 소개, 레시피 아님"
+  },
+  "GINTey56tTI": {
+    "status": "excluded",
+    "reason": "manual: 장터 비하인드, 레시피 아님"
+  },
+  "tf2__vkD9aI": {
+    "status": "excluded",
+    "reason": "manual: 푸드몰 제품 홍보"
+  },
+  "YKazpvqqP4U": {
+    "status": "excluded",
+    "reason": "manual: 이벤트 안내"
+  },
+  "Cg0TtHK4xBM": {
+    "status": "excluded",
+    "reason": "manual: 육수 공동구매 유료광고"
+  },
+  "cS_waOmJvU4": {
+    "status": "excluded",
+    "reason": "manual: 한우 공동구매"
+  },
+  "bkTn1E4eLaY": {
+    "status": "excluded",
+    "reason": "manual: 촬영 브이로그 + 공동구매"
+  },
+  "aNkaE03Nyo4": {
+    "status": "needs_review",
+    "reason": "manual: 제목·설명에 단서 없음. 영상을 봐야 함"
+  },
+  "pXE9G4dqwrY": {
+    "status": "needs_review",
+    "reason": "manual: 단서 없음"
+  },
+  "GXpr6Gyiv6c": {
+    "status": "needs_review",
+    "reason": "manual: 단서 없음"
+  },
+  "Aut-FfeF7rI": {
+    "status": "needs_review",
+    "reason": "manual: 원팬 5분 — 요리 이름 없음"
+  },
+  "uufBPDoBy88": {
+    "status": "needs_review",
+    "reason": "manual: 단서 없음"
+  },
+  "dJVFB5il4M8": {
+    "status": "needs_review",
+    "reason": "manual: 단서 없음"
+  },
+  "56V9CIgHQIA": {
+    "status": "needs_review",
+    "reason": "manual: 추석 선물 — 베이킹인지 불명"
+  },
+  "C3Qx1Td3rU4": {
+    "dish": "떡갈비 스카치에그",
+    "ingredients": [
+      "달걀"
+    ],
+    "tags": {
+      "occasion": [
+        "meal",
+        "guest"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "kl4Z7EfNooY": {
+    "dish": "떡갈비 스카치에그",
+    "ingredients": [
+      "달걀"
+    ],
+    "tags": {
+      "occasion": [
+        "meal"
+      ],
+      "format": "inspiration"
+    }
+  },
+  "xL4uRA7djlw": {
+    "dish": "수육 · 고기국수",
+    "ingredients": [
+      "돼지고기"
+    ],
+    "tags": {
+      "occasion": [
+        "meal"
+      ],
+      "method": [
+        "noodle",
+        "steam"
+      ],
+      "equipment": [
+        "pot"
+      ]
+    }
+  },
+  "vU_Qd4C2f10": {
+    "dish": "명란찜 · 명란 들기름 비빔면",
+    "tags": {
+      "occasion": [
+        "meal",
+        "side_dish"
+      ],
+      "method": [
+        "noodle",
+        "steam"
+      ]
+    }
+  },
+  "QFMSEoV0c8w": {
+    "dish": "쿠지라이식 참깨라면",
+    "ingredients": [
+      "라면",
+      "달걀"
+    ],
+    "tags": {
+      "occasion": [
+        "meal",
+        "snack"
+      ],
+      "method": [
+        "noodle"
+      ],
+      "equipment": [
+        "microwave"
+      ]
+    }
+  },
+  "A_i3IV-ooE8": {
+    "dish": "부타노미소야끼(돼지고기 된장구이)",
+    "ingredients": [
+      "삼겹살"
+    ],
+    "tags": {
+      "occasion": [
+        "meal"
+      ],
+      "method": [
+        "grill"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "cMkPX89rnDI": {
+    "dish": "1분 계란찜",
+    "ingredients": [
+      "달걀"
+    ],
+    "tags": {
+      "occasion": [
+        "side_dish",
+        "meal"
+      ],
+      "method": [
+        "steam"
+      ],
+      "equipment": [
+        "pot"
+      ]
+    }
+  },
+  "FJAcPCykyRA": {
+    "dish": "두부 스테이크",
+    "ingredients": [
+      "두부"
+    ],
+    "tags": {
+      "occasion": [
+        "meal",
+        "healthy"
+      ],
+      "method": [
+        "grill"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    },
+    "recipeId": 652
+  },
+  "cKiLPYe7Uzk": {
+    "dish": "명란찜 · 명란 들기름 비빔면",
+    "tags": {
+      "occasion": [
+        "meal",
+        "side_dish"
+      ],
+      "method": [
+        "noodle",
+        "steam"
+      ]
+    }
+  },
+  "Ldo_JRHrDr0": {
+    "recipeId": 371,
+    "dish": "장어구이",
+    "ingredients": [
+      "장어"
+    ],
+    "tags": {
+      "occasion": [
+        "guest",
+        "meal"
+      ],
+      "method": [
+        "grill"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "PhvDZTq94xE": {
+    "recipeId": 652,
+    "dish": "두부 스테이크",
+    "ingredients": [
+      "두부"
+    ],
+    "tags": {
+      "occasion": [
+        "meal",
+        "healthy"
+      ],
+      "method": [
+        "grill"
+      ],
+      "equipment": [
+        "pan"
+      ]
+    }
+  },
+  "xJG9b7CcLyA": {
+    "dish": "열무김치",
+    "ingredients": [
+      "열무"
+    ],
+    "tags": {
+      "occasion": [
+        "side_dish"
+      ]
+    }
+  },
+  "l7Ep3zkvnnk": {
+    "dish": "열무김치",
+    "ingredients": [
+      "열무"
+    ],
+    "tags": {
+      "occasion": [
+        "side_dish"
+      ]
+    }
+  }
+}

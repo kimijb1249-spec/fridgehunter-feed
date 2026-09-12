@@ -1,0 +1,1163 @@
+[
+  {
+    "channel_id": "UCyn-K7rZLXjGl7VXGweIlcA",
+    "channel_name": "백종원 PAIK JONG WON",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:32:54.298Z",
+    "subscribers": 5860000
+  },
+  {
+    "channel_id": "UCKA_6r3CWC76x_EaFO6jsPA",
+    "channel_name": "만개의레시피",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.978Z",
+    "subscribers": 617000
+  },
+  {
+    "channel_id": "UCC8bTxyN2ZCfMzS_JAEClfA",
+    "channel_name": "쿠킹하루",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.942Z",
+    "subscribers": 3520000
+  },
+  {
+    "channel_id": "UCC9pQY_uaBSa0WOpMNJHbEQ",
+    "channel_name": "자취요리신",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.946Z",
+    "subscribers": 2280000
+  },
+  {
+    "channel_id": "UCvQPUPoMK0Smj-OHeUe9SEw",
+    "channel_name": "꿀키 honeykki",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "dessert",
+    "last_synced_at": "2026-09-11T20:02:38.935Z",
+    "subscribers": 2020000
+  },
+  {
+    "channel_id": "UCtby6rJtBGgUm-2oD_E7bzw",
+    "channel_name": "Cooking tree 쿠킹트리",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "dessert",
+    "last_synced_at": "2026-09-11T20:02:38.941Z",
+    "subscribers": 5210000
+  },
+  {
+    "channel_id": "UC0htUSwcxfSGNfK_5Q28JkA",
+    "channel_name": "1분요리 뚝딱이형",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.118Z",
+    "subscribers": 3050000
+  },
+  {
+    "channel_id": "UCRzS1NJFpMLiLbB0vMJXX4w",
+    "channel_name": "요리용디",
+    "enabled": true,
+    "priority": 1,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.932Z",
+    "subscribers": 1690000
+  },
+  {
+    "channel_id": "UCPWFxcwPliEBMwJjmeFIDIg",
+    "channel_name": "하루한끼",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.933Z",
+    "subscribers": 4190000
+  },
+  {
+    "channel_id": "UCBzhQlTjXvgjdroWNgrw1TQ",
+    "channel_name": "초의 데일리쿡",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.964Z",
+    "subscribers": 521000
+  },
+  {
+    "channel_id": "UCy2WX3w5UyYFHBDHyWFKNUQ",
+    "channel_name": "이 남자의 cook",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.966Z",
+    "subscribers": 2550000
+  },
+  {
+    "channel_id": "UC1g9JaEVLOFGhH8hpaK--Jg",
+    "channel_name": "김대석 셰프TV",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.973Z",
+    "subscribers": 2820000
+  },
+  {
+    "channel_id": "UCMXFSqYCTcB4iIJLwUJaBrQ",
+    "channel_name": "심방골주부",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:39.140Z",
+    "subscribers": 769000
+  },
+  {
+    "channel_id": "UC4Icothd_W0M7jRzNyAszoA",
+    "channel_name": "레시피 읽어주는 여자",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.013Z",
+    "subscribers": 1110000
+  },
+  {
+    "channel_id": "UCdfhK0yIMjmhcQ3gP-qpXRw",
+    "channel_name": "산적TV 밥굽남",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.932Z",
+    "subscribers": 1160000
+  },
+  {
+    "channel_id": "UC6cLZhS32vg4LGOJM7NuFPA",
+    "channel_name": "쿠킹씨 Cooking See",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.970Z",
+    "subscribers": 2080000
+  },
+  {
+    "channel_id": "UCqtiEWkAdE3MpHOX2n_dtAA",
+    "channel_name": "Maangchi",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.932Z",
+    "subscribers": 25200
+  },
+  {
+    "channel_id": "UCcNUpInQt1tI3JC_oTPQ20w",
+    "channel_name": "요리왕비룡 셰프TV",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:32:54.342Z",
+    "subscribers": 2130000
+  },
+  {
+    "channel_id": "UC-9oz0l-dFQO-0O7kHOGUpg",
+    "channel_name": "정관스님 Temple food",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:38.946Z",
+    "subscribers": 1410
+  },
+  {
+    "channel_id": "UC6VMdg5HK1B_i9VH5b8nyTA",
+    "channel_name": "예니의 요리조리",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:26:59.572Z",
+    "subscribers": 89
+  },
+  {
+    "channel_id": "UCCDrNXHwdlv62zyzxy2Ab_Q",
+    "channel_name": "자취요리 cooking alone",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.951Z",
+    "subscribers": 142000
+  },
+  {
+    "channel_id": "UCyn7aoxdLNDZG2ZXXLoVCNQ",
+    "channel_name": "쿡피아 Cookpia",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:32:54.308Z",
+    "subscribers": 986000
+  },
+  {
+    "channel_id": "UC7j2zeAGogERdXtQSMBjSMA",
+    "channel_name": "자취요리TV",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.933Z",
+    "subscribers": 383
+  },
+  {
+    "channel_id": "UCjXbGCg_iLuPnkTmIYw1TxA",
+    "channel_name": "정성이가득찬집밥",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-12T04:19:10.844Z",
+    "subscribers": 39
+  },
+  {
+    "channel_id": "UCCouA7KD_icVbP1G8dYrxBg",
+    "channel_name": "리틀스위트",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "dessert",
+    "last_synced_at": "2026-09-11T20:02:38.930Z",
+    "subscribers": 14
+  },
+  {
+    "channel_id": "UCszL6zwtO_SHCPViDcWgYkA",
+    "channel_name": "에이미의 구움학당",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "dessert",
+    "last_synced_at": "2026-09-12T04:32:54.342Z",
+    "subscribers": 1470
+  },
+  {
+    "channel_id": "UCM8I0fLEuue4wvyk19EVBwA",
+    "channel_name": "손맛할머니",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-12T04:32:54.298Z",
+    "subscribers": 311000
+  },
+  {
+    "channel_id": "UCPYbVDPexscw4kyqIBx1SjA",
+    "channel_name": "혼밥레시피",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.933Z",
+    "subscribers": 19
+  },
+  {
+    "channel_id": "UCikpiy5_mHOL-d93ft7Nwyg",
+    "channel_name": "한국안주문화연구소",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "drinking_food",
+    "last_synced_at": "2026-09-11T20:02:38.969Z",
+    "subscribers": 44400
+  },
+  {
+    "channel_id": "UC3PFXp2F4O2MqyiLyHX801w",
+    "channel_name": "다이어트 레시피",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.151Z",
+    "subscribers": 27
+  },
+  {
+    "channel_id": "UCtXxzNfv3gLEvlxBMLO1BiA",
+    "channel_name": "에어프라이어 한 끼 도히쓰",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "air_fryer",
+    "last_synced_at": "2026-09-11T20:02:39.146Z",
+    "subscribers": 3260
+  },
+  {
+    "channel_id": "UCr-QA8oim9L2wxasoFcraqw",
+    "channel_name": "렌지쉐프 (전자레인지 요리)",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "microwave",
+    "last_synced_at": "2026-09-11T20:02:38.935Z",
+    "subscribers": 26300
+  },
+  {
+    "channel_id": "UCFiYPUhUzLKoi-cZ0AwpjLA",
+    "channel_name": "매일맛나 delicious day",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-12T04:26:59.583Z",
+    "subscribers": 5430000
+  },
+  {
+    "channel_id": "UCemFUqq5jad1f258HrPS5rg",
+    "channel_name": "식탁일기 table diary",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.049Z",
+    "subscribers": 5490000
+  },
+  {
+    "channel_id": "UCyG7zAV_2JlPnxhwDxZN6sA",
+    "channel_name": "지현꿍",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "dessert",
+    "last_synced_at": "2026-09-12T04:32:54.342Z",
+    "subscribers": 2990000
+  },
+  {
+    "channel_id": "UC-T8S0Vs2lvVXSkQv2qUStw",
+    "channel_name": "1분요리왕 통키",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.975Z",
+    "subscribers": 682000
+  },
+  {
+    "channel_id": "UCStb6xqP228XXUykrrY-_CQ",
+    "channel_name": "우리의식탁 W TABLE",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.940Z",
+    "subscribers": 1260000
+  },
+  {
+    "channel_id": "UC5oft5dVf43M2cFmhpJLVGQ",
+    "channel_name": "애주가TV참PD",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "drinking_food",
+    "last_synced_at": "2026-09-12T04:32:54.296Z",
+    "subscribers": 1540000
+  },
+  {
+    "channel_id": "UCtMiGA42uEVgFqZVzuiQ1Lg",
+    "channel_name": "꼬마츄츄",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "snack",
+    "last_synced_at": "2026-09-11T20:02:39.000Z",
+    "subscribers": 62500
+  },
+  {
+    "channel_id": "UCh7eZRa60GaY719mThEuakQ",
+    "channel_name": "J'adore자도르",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "dessert",
+    "last_synced_at": "2026-09-12T04:32:54.533Z",
+    "subscribers": 788000
+  },
+  {
+    "channel_id": "UCa3Wf5J3aHc07zomg-8HCmg",
+    "channel_name": "오복하우스",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-12T04:32:54.523Z",
+    "subscribers": 246000
+  },
+  {
+    "channel_id": "UCVYWNpj0WskPy5rLL8uzHBg",
+    "channel_name": "수부해TV subuhae",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.985Z",
+    "subscribers": 554000
+  },
+  {
+    "channel_id": "UCheorT3e78dgvFXsgP3p3sw",
+    "channel_name": "it's ssay",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.935Z",
+    "subscribers": 369000
+  },
+  {
+    "channel_id": "UCT3CumbFIJiW33uq0UI3zlg",
+    "channel_name": "고기남자",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.156Z",
+    "subscribers": 1820000
+  },
+  {
+    "channel_id": "UCa0aTySoJBHXpHigv5tsxbQ",
+    "channel_name": "끼룩푸드 seagull food",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.006Z",
+    "subscribers": 1810000
+  },
+  {
+    "channel_id": "UC37fRkl_iIjDAr9pf0FFzGA",
+    "channel_name": "딸을 위한 레시피",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.934Z",
+    "subscribers": 1160000
+  },
+  {
+    "channel_id": "UC7QpulteHAxk4S1AASzCjvw",
+    "channel_name": "Mykoreandic",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:19:10.683Z",
+    "subscribers": 13700000
+  },
+  {
+    "channel_id": "UCmzaVMzEPxg2z-aFpVBUBBg",
+    "channel_name": "쿡톡 (빛 & 소금)",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.934Z",
+    "subscribers": 931000
+  },
+  {
+    "channel_id": "UCUgp8Lli-2w9AQ0cXEqgxpg",
+    "channel_name": "요리에 진심인 편",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.935Z",
+    "subscribers": 291000
+  },
+  {
+    "channel_id": "UCs4oAFxhxxVhtW-_ApKtkLQ",
+    "channel_name": "하뉴",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.934Z",
+    "subscribers": 766000
+  },
+  {
+    "channel_id": "UCz1__nhtuF94sI3grQ-z8eA",
+    "channel_name": "푸딩 FOODING",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.934Z",
+    "subscribers": 3450000
+  },
+  {
+    "channel_id": "UC_BVJYxQxN5jberGxAFDlyg",
+    "channel_name": "은수저",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "guest",
+    "last_synced_at": "2026-09-11T20:02:38.991Z",
+    "subscribers": 685000
+  },
+  {
+    "channel_id": "UCE5vkmrNWHkoNB21y4eLiDA",
+    "channel_name": "빵실베이킹 BBangsil",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "dessert",
+    "last_synced_at": "2026-09-11T20:02:39.042Z",
+    "subscribers": 189000
+  },
+  {
+    "channel_id": "UCYTmuKBwqrms-bSEWBCwPGg",
+    "channel_name": "풀씨의요리노트",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:26:59.558Z",
+    "subscribers": 97600
+  },
+  {
+    "channel_id": "UCFckMy8sXkiv3px9RwmztKg",
+    "channel_name": "오늘 뭐 먹지?",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.007Z",
+    "subscribers": 351000
+  },
+  {
+    "channel_id": "UCyozK5OFN5lDrwim5wqQnLA",
+    "channel_name": "취미로 요리하는 남자 Yonam",
+    "enabled": true,
+    "priority": 2,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.001Z",
+    "subscribers": 1420000
+  },
+  {
+    "channel_id": "UCSLSVTL-aIRjLpJ5R-wEuzQ",
+    "channel_name": "더니 간편요리왕",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.978Z",
+    "subscribers": 274000
+  },
+  {
+    "channel_id": "UCUsoowBBnGAmhl0XBaFuQWA",
+    "channel_name": "요리하는다이어터",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-12T04:32:54.374Z",
+    "subscribers": 464000
+  },
+  {
+    "channel_id": "UCy2gSUsq4M6Gm0W5ZSCzomw",
+    "channel_name": "10분요리 10m meal",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "microwave",
+    "last_synced_at": "2026-09-11T20:02:38.989Z",
+    "subscribers": 28700
+  },
+  {
+    "channel_id": "UCv24OInpo2-DbetepO37zVw",
+    "channel_name": "앳키친 에어프라이어 요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "air_fryer",
+    "last_synced_at": "2026-09-12T04:26:59.720Z",
+    "subscribers": 983
+  },
+  {
+    "channel_id": "UCHZiw853359R4LhXEOCP13A",
+    "channel_name": "요다맨 윤수민",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-12T04:26:59.611Z",
+    "subscribers": 41900
+  },
+  {
+    "channel_id": "UCZSd1AAvO8RXszGxxP8K9Ww",
+    "channel_name": "소주안주 sojuanju",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "drinking_food",
+    "last_synced_at": "2026-09-12T04:26:59.731Z",
+    "subscribers": 8450
+  },
+  {
+    "channel_id": "UCjeFmKMYYd1L9Glf-itT-Fg",
+    "channel_name": "일등감의 쉬운 레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.021Z",
+    "subscribers": 269000
+  },
+  {
+    "channel_id": "UCf3956PKvZ5H0Ul6vABDo4A",
+    "channel_name": "알토란 - 집밥 레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.937Z",
+    "subscribers": 182000
+  },
+  {
+    "channel_id": "UCWdmhZce0hHw9_Ttmctu-7A",
+    "channel_name": "요리독학",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.989Z",
+    "subscribers": 89800
+  },
+  {
+    "channel_id": "UCVXx89z5j3gkQMGScNqmWjw",
+    "channel_name": "함께해요 맛나요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:38.935Z",
+    "subscribers": 1640000
+  },
+  {
+    "channel_id": "UCUAKaXyq2hVBCph1LOUtuqg",
+    "channel_name": "집밥요리 Home Cooking",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-12T04:26:59.521Z",
+    "subscribers": 1390000
+  },
+  {
+    "channel_id": "UCrpB5PigomcupI9PTRKioog",
+    "channel_name": "집밥 korean home cooking",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.938Z",
+    "subscribers": 1140000
+  },
+  {
+    "channel_id": "UCslni4iVQ-e784AU83eVcnQ",
+    "channel_name": "유지만 yuziman",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.025Z",
+    "subscribers": 964000
+  },
+  {
+    "channel_id": "UCWyjY6ykM58LO5ipzRgIzGA",
+    "channel_name": "정호영의 오늘도 요리 Kitchen Caden",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:26:59.583Z",
+    "subscribers": 675000
+  },
+  {
+    "channel_id": "UCEn6ZBBE0j5mY-YtQRC1BFg",
+    "channel_name": "엄마의집밥",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-12T04:26:59.592Z",
+    "subscribers": 560000
+  },
+  {
+    "channel_id": "UCvEuV4SJ4huzWHIkUmYIgnw",
+    "channel_name": "가루씨의 집밥Garussi home cooking",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.989Z",
+    "subscribers": 500000
+  },
+  {
+    "channel_id": "UCnMJ4zTwsDWHY1cdzHvcy0Q",
+    "channel_name": "요리고수",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.014Z",
+    "subscribers": 424000
+  },
+  {
+    "channel_id": "UCDoNR057xP_CTmIMjxzUuaA",
+    "channel_name": "집밥 종갓집 며느리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.007Z",
+    "subscribers": 384000
+  },
+  {
+    "channel_id": "UCmufNhhBlfucIlTBofPxNpQ",
+    "channel_name": "후딱 레시피 Huttak",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.995Z",
+    "subscribers": 340000
+  },
+  {
+    "channel_id": "UCU_EzAYLLZJOeAnlPqWQqvA",
+    "channel_name": "요리하는 장보고 Jangbogo",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.011Z",
+    "subscribers": 264000
+  },
+  {
+    "channel_id": "UCA2Aoj5nHJcBukGWLMccK7Q",
+    "channel_name": "우리집오늘의요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.942Z",
+    "subscribers": 239000
+  },
+  {
+    "channel_id": "UCf3nyXDpnRjPLk5PRhIsD5g",
+    "channel_name": "아임레시피 I'm recipe",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.057Z",
+    "subscribers": 161000
+  },
+  {
+    "channel_id": "UCG6I6NdRq2xqK7xrgMolnkQ",
+    "channel_name": "엄마표요리Mom'S Cooking",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.000Z",
+    "subscribers": 144000
+  },
+  {
+    "channel_id": "UC8ZirMMChf8BaKKbae3Sl4A",
+    "channel_name": "이정현의 집밥레스토랑 Home Cooking with JH",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.938Z",
+    "subscribers": 130000
+  },
+  {
+    "channel_id": "UC2dDb6up1sIc-5geTvNtgHA",
+    "channel_name": "EBS 최고의 요리비결",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.209Z",
+    "subscribers": 105000
+  },
+  {
+    "channel_id": "UCDGLSi-amZJzBLFoaC0IznA",
+    "channel_name": "자요뱅_ 쉽고 편한 요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.014Z",
+    "subscribers": 105000
+  },
+  {
+    "channel_id": "UCpw7JAdlchGa8Qc7Lw9f0GA",
+    "channel_name": "자취요리 뚝딱 l 202호 자취요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:32:54.397Z",
+    "subscribers": 92500
+  },
+  {
+    "channel_id": "UC_DoPMiGYmBoCNdps719LXQ",
+    "channel_name": "자취하는 아저씨",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.013Z",
+    "subscribers": 91200
+  },
+  {
+    "channel_id": "UCoWjB8sqkwGDYA6AAeIXvRg",
+    "channel_name": "한누렁",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.176Z",
+    "subscribers": 80600
+  },
+  {
+    "channel_id": "UCLXNd7TA72f9LpJF89w1Ulg",
+    "channel_name": "꾹레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:32:54.397Z",
+    "subscribers": 69600
+  },
+  {
+    "channel_id": "UCOGiZribvw4yWsIay6UPRUg",
+    "channel_name": "영숙 아줌마 집밥요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.939Z",
+    "subscribers": 68100
+  },
+  {
+    "channel_id": "UC7NxEL116K3KZjQYNr1eXHg",
+    "channel_name": "YoriTV",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.187Z",
+    "subscribers": 65600
+  },
+  {
+    "channel_id": "UCnYZduHHeDcsLE896a9aTlQ",
+    "channel_name": "요리무사",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.940Z",
+    "subscribers": 56500
+  },
+  {
+    "channel_id": "UCkahcTbfqg3HZ0EHyi356AQ",
+    "channel_name": "지미테이블 jimmytable",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.950Z",
+    "subscribers": 53900
+  },
+  {
+    "channel_id": "UCO6QXtwHrnskC-7m8ihDb6w",
+    "channel_name": "애리부엌",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.018Z",
+    "subscribers": 47400
+  },
+  {
+    "channel_id": "UCVTYdLGxuq3Gm3vRed-gTCQ",
+    "channel_name": "맛있는황금레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.056Z",
+    "subscribers": 42400
+  },
+  {
+    "channel_id": "UC9OLAf5xL4veRmMtSlpvfuw",
+    "channel_name": "시루Siru 건강레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:38.954Z",
+    "subscribers": 37600
+  },
+  {
+    "channel_id": "UCRAXFjSVkLjMvd5eMtGkZxQ",
+    "channel_name": "모먹찌 - 간단요리, 자취요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.036Z",
+    "subscribers": 35100
+  },
+  {
+    "channel_id": "UCrzQrOZ94Xj5FIbB1q_1G_Q",
+    "channel_name": "집밥최고",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.034Z",
+    "subscribers": 33800
+  },
+  {
+    "channel_id": "UC6hF4VHvbVmzELBaAlbYvmw",
+    "channel_name": "일타집밥 요미마마 Yummy Cooking",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.081Z",
+    "subscribers": 31800
+  },
+  {
+    "channel_id": "UCcBS7e6tr3oAXzXrfHP1_fw",
+    "channel_name": "온스맘의 키토제닉 레시피 Ketogenic recipe",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-11T20:02:39.042Z",
+    "subscribers": 30700
+  },
+  {
+    "channel_id": "UCfvYUKfuslRx4MUCEA6MFKA",
+    "channel_name": "장모님 집밥",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:39.213Z",
+    "subscribers": 30100
+  },
+  {
+    "channel_id": "UCTj2q0vt1xfuJZRjgL2d8YA",
+    "channel_name": "꿀맛 레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:38.951Z",
+    "subscribers": 28400
+  },
+  {
+    "channel_id": "UCn1JA6jFDgR8x19bRdA1UUA",
+    "channel_name": "비니비니레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:32:54.467Z",
+    "subscribers": 27000
+  },
+  {
+    "channel_id": "UCEXcndSB-po1MAb_cb6EVaA",
+    "channel_name": "맘스레시피 Mom's recipes",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.027Z",
+    "subscribers": 21500
+  },
+  {
+    "channel_id": "UCAhRfarRWx5JCEJUjVquS3A",
+    "channel_name": "김주부의 사부작레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.056Z",
+    "subscribers": 19100
+  },
+  {
+    "channel_id": "UCa53m6ll-NFynJBK-VUXg_w",
+    "channel_name": "THE식당레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-11T20:02:39.034Z",
+    "subscribers": 18400
+  },
+  {
+    "channel_id": "UCb1JT-3qAKq9GJVSxEi_UxQ",
+    "channel_name": "한끼대첩:간단한 요리 레시피",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-12T04:32:54.419Z",
+    "subscribers": 16500
+  },
+  {
+    "channel_id": "UC83ipz-CtLVM2YP5UKq3lQQ",
+    "channel_name": "엄마손집밥",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:39.033Z",
+    "subscribers": 15400
+  },
+  {
+    "channel_id": "UCqJEhkdjGvB92NRUORcvuRQ",
+    "channel_name": "배여사집밥  korean home meal",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:39.229Z",
+    "subscribers": 15200
+  },
+  {
+    "channel_id": "UCecwU0Adb0SUQHQjxLygW-Q",
+    "channel_name": "주부의 집밥 요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-12T04:26:59.641Z",
+    "subscribers": 13300
+  },
+  {
+    "channel_id": "UC-x4sY67dBKavOuUzGNEeSg",
+    "channel_name": "부부요리 - 퇴근 후 집밥",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": "2026-09-11T20:02:38.958Z",
+    "subscribers": 11900
+  },
+  {
+    "channel_id": "UCVIRX9RXEQr-b8pqigFg48g",
+    "channel_name": "힐링집밥",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": "2026-09-12T04:26:59.812Z",
+    "subscribers": 10000
+  },
+  {
+    "channel_id": "UCA_HPCVwiZZNKqQpVJWEhxA",
+    "channel_name": "추추의 한끼식사",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 1000000
+  },
+  {
+    "channel_id": "UC9She1e6OWUpwJpwZtbqhjQ",
+    "channel_name": "김진순 점심시간",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 902000
+  },
+  {
+    "channel_id": "UC5-f4v2bWroSgTA-IBuXKMw",
+    "channel_name": "최강록 Ultra Taste Diary",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:26:59.624Z",
+    "subscribers": 701000
+  },
+  {
+    "channel_id": "UCFacbDFmny-7iNdIOdb5mvA",
+    "channel_name": "루다 테이블 Luda Table",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 684000
+  },
+  {
+    "channel_id": "UCrn5CaT8RoeFGpWJdmO4OwA",
+    "channel_name": "만원요리 최씨남매",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 624000
+  },
+  {
+    "channel_id": "UCOU8XYXbXE6oyboOZLV_w5g",
+    "channel_name": "간단한끼 요오리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": null,
+    "subscribers": 432000
+  },
+  {
+    "channel_id": "UCRcj0GSaOmDdFukahVS4u1A",
+    "channel_name": "뇨리 티브이",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 388000
+  },
+  {
+    "channel_id": "UCnXoaFKN8e-XyuA9uaipqRw",
+    "channel_name": "저탄수 요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": null,
+    "subscribers": 185000
+  },
+  {
+    "channel_id": "UC1bw8ccHz3yKBkImaVgEwdg",
+    "channel_name": "요리하다 Yorihada",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 122000
+  },
+  {
+    "channel_id": "UCho1wAleL67AmOH3m-U5muA",
+    "channel_name": "뚝딱뚝딱계란씨 ttukttak egg",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 114000
+  },
+  {
+    "channel_id": "UC6ZFnmz7BkT8CsJZIuPwbZA",
+    "channel_name": "황금밥그릇 - 간단하고 건강한 요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": null,
+    "subscribers": 106000
+  },
+  {
+    "channel_id": "UCy_SN2E1zSWCPa6x96-bRhA",
+    "channel_name": "엄마의 주방",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": null,
+    "subscribers": 72300
+  },
+  {
+    "channel_id": "UCdEeiO2lSCCAgiDOwdaLgrQ",
+    "channel_name": "스타쿡",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": "2026-09-12T04:26:59.557Z",
+    "subscribers": 51400
+  },
+  {
+    "channel_id": "UCepLjVoNirPHYWI5andIRPg",
+    "channel_name": "이계피 요리채널",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 48700
+  },
+  {
+    "channel_id": "UCtxWYRlW0PPu0nd4sWt4uAg",
+    "channel_name": "요리사랑 cooking",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": null,
+    "subscribers": 47700
+  },
+  {
+    "channel_id": "UC9lqDuvE9oq4JUUUFdUMbEg",
+    "channel_name": "튼튼키친COOK",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": null,
+    "subscribers": 39200
+  },
+  {
+    "channel_id": "UCOerf_KQyVx55Ex0z90yxZw",
+    "channel_name": "아빠막요리 K-Daddy's cuisine",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 29300
+  },
+  {
+    "channel_id": "UCMgAU9MsdKZWRnRez6Xbyrg",
+    "channel_name": "휘리릭요리",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "meal",
+    "last_synced_at": null,
+    "subscribers": 22300
+  },
+  {
+    "channel_id": "UCif_JeXphzLrFuvs6lZ3h5w",
+    "channel_name": "요리꽃피네 Cooking Blooms",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "healthy",
+    "last_synced_at": null,
+    "subscribers": 15800
+  },
+  {
+    "channel_id": "UCkFmG9NN2NJ5-jxlc8_7mEA",
+    "channel_name": "집밥 이천댁 한식요리채널",
+    "enabled": true,
+    "priority": 3,
+    "category_hint": "side_dish",
+    "last_synced_at": null,
+    "subscribers": 54400
+  }
+]

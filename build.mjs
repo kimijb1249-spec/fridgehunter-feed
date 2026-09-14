@@ -387,6 +387,7 @@ function isoDuration(s) {
 const prev = existsSync(STATE) ? JSON.parse(readFileSync(STATE, 'utf8')).videos || [] : [];
 const byId = new Map(prev.map((v) => [v.id, v]));
 const allow = new Set(channels.map((c) => c.channel_id));
+const disabled = new Set(JSON.parse(readFileSync(CHANNELS, 'utf8')).filter((c) => !c.enabled).map((c) => c.channel_id));
 const priority = Object.fromEntries(channels.map((c) => [c.channel_id, c.priority]));
 
 const rss = (await Promise.all(channels.map(fetchRss))).flat();
@@ -463,6 +464,9 @@ const videos = [...byId.values()]
     }
     // 한글 없는 제목은 사람이 승인했더라도 뺀다 — 1·2차 검수 때는 이 규칙이 없었다.
     if (!/[가-힣]/.test(v.title)) row.review = { status: 'excluded', reason: 'non_korean_title' };
+    // 꺼진 채널(channels.json enabled:false)의 영상은 상태에 남아 있어도 뺀다 — 전엔 예전에 받아둔 것이 검수 승인으로
+    // 그대로 실렸다(2026-09-14 실측: 4채널 끄고도 21건 남음).
+    if (disabled.has(v.channelId)) row.review = { status: 'excluded', reason: 'channel_disabled' };
     counts[row.review.status] += 1;
     return row;
   })

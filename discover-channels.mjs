@@ -6,10 +6,9 @@
 // 결과는 **후보**다. 사람이 걸러(먹방·브이로그·쇼핑 제외) videoChannels.json에 넣는다.
 import { readFileSync, writeFileSync } from 'node:fs';
 
-// 키: 환경변수, 없으면 ~/GeeCube-secure/api/txt/youtube api.txt 에서 읽는다(값은 어디에도 찍지 않는다).
+// 키: 환경변수, 없으면 /Volumes/GeeCube/GeeCube/secrets/api/txt/youtube api.txt 에서 읽는다(값은 어디에도 찍지 않는다).
 import { readFileSync as _rf } from 'node:fs';
-import { homedir as _hd } from 'node:os';
-const key = process.env.YOUTUBE_API_KEY || (() => { try { const m = _rf(`${_hd()}/GeeCube-secure/api/txt/youtube api.txt`, 'utf8').match(/AIza[0-9A-Za-z_-]{35}/); return m ? m[0] : ''; } catch { return ''; } })();
+const key = process.env.YOUTUBE_API_KEY || (() => { try { const m = _rf(`/Volumes/GeeCube/GeeCube/secrets/api/txt/youtube api.txt`, 'utf8').match(/AIza[0-9A-Za-z_-]{35}/); return m ? m[0] : ''; } catch { return ''; } })();
 if (!key) {
   console.error('YOUTUBE_API_KEY가 없습니다.');
   process.exit(1);

@@ -95,7 +95,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.869Z",
+    "last_synced_at": "2026-10-12T00:09:27.383Z",
     "subscribers": 2550000
   },
   {
@@ -131,7 +131,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.049Z",
+    "last_synced_at": "2026-10-12T00:09:27.394Z",
     "subscribers": 1160000
   },
   {
@@ -217,7 +217,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "side_dish",
-    "last_synced_at": "2026-10-10T00:28:24.903Z",
+    "last_synced_at": "2026-10-12T00:09:27.388Z",
     "subscribers": 40
   },
   {
@@ -310,7 +310,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.928Z",
+    "last_synced_at": "2026-10-12T00:09:27.406Z",
     "subscribers": 5490000
   },
   {
@@ -387,7 +387,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.058Z",
-    "subscribers": 569000
+    "subscribers": 570000
   },
   {
     "channel_id": "UCheorT3e78dgvFXsgP3p3sw",
@@ -443,7 +443,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.054Z",
-    "subscribers": 967000
+    "subscribers": 969000
   },
   {
     "channel_id": "UCUgp8Lli-2w9AQ0cXEqgxpg",
@@ -554,7 +554,7 @@
     "priority": 3,
     "category_hint": "air_fryer",
     "last_synced_at": "2026-10-10T00:28:25.039Z",
-    "subscribers": 1240
+    "subscribers": 1260
   },
   {
     "channel_id": "UCHZiw853359R4LhXEOCP13A",
@@ -563,7 +563,7 @@
     "priority": 3,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:24.867Z",
-    "subscribers": 46000
+    "subscribers": 46100
   },
   {
     "channel_id": "UCZSd1AAvO8RXszGxxP8K9Ww",
@@ -582,7 +582,7 @@
     "priority": 3,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:25.022Z",
-    "subscribers": 272000
+    "subscribers": 273000
   },
   {
     "channel_id": "UCf3956PKvZ5H0Ul6vABDo4A",
@@ -599,7 +599,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.870Z",
+    "last_synced_at": "2026-10-12T00:09:27.385Z",
     "subscribers": 89600
   },
   {
@@ -627,7 +627,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "side_dish",
-    "last_synced_at": "2026-10-10T00:28:24.933Z",
+    "last_synced_at": "2026-10-12T00:09:27.393Z",
     "subscribers": 1150000
   },
   {
@@ -645,7 +645,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.975Z",
+    "last_synced_at": "2026-10-12T00:09:27.403Z",
     "subscribers": 683000
   },
   {
@@ -663,7 +663,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "side_dish",
-    "last_synced_at": "2026-10-10T00:28:24.919Z",
+    "last_synced_at": "2026-10-12T00:09:27.388Z",
     "subscribers": 504000
   },
   {
@@ -672,7 +672,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-11T00:04:16.167Z",
+    "last_synced_at": "2026-10-12T00:09:27.426Z",
     "subscribers": 434000
   },
   {
@@ -690,7 +690,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.051Z",
+    "last_synced_at": "2026-10-12T00:09:27.580Z",
     "subscribers": 350000
   },
   {
@@ -708,8 +708,8 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-11T00:04:16.192Z",
-    "subscribers": 243000
+    "last_synced_at": "2026-10-12T00:09:27.412Z",
+    "subscribers": 244000
   },
   {
     "channel_id": "UCf3nyXDpnRjPLk5PRhIsD5g",
@@ -717,7 +717,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-10T00:28:24.953Z",
+    "last_synced_at": "2026-10-12T00:09:27.406Z",
     "subscribers": 165000
   },
   {
@@ -726,7 +726,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.901Z",
+    "last_synced_at": "2026-10-12T00:09:27.389Z",
     "subscribers": 144000
   },
   {
@@ -754,7 +754,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:24.904Z",
-    "subscribers": 117000
+    "subscribers": 118000
   },
   {
     "channel_id": "UCpw7JAdlchGa8Qc7Lw9f0GA",
@@ -762,7 +762,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.917Z",
+    "last_synced_at": "2026-10-12T00:09:27.393Z",
     "subscribers": 92400
   },
   {
@@ -791,7 +791,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.136Z",
-    "subscribers": 73100
+    "subscribers": 73200
   },
   {
     "channel_id": "UCOGiZribvw4yWsIay6UPRUg",
@@ -799,7 +799,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "side_dish",
-    "last_synced_at": "2026-10-10T00:28:24.915Z",
+    "last_synced_at": "2026-10-12T00:09:27.400Z",
     "subscribers": 68100
   },
   {
@@ -836,7 +836,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:24.942Z",
-    "subscribers": 48400
+    "subscribers": 48500
   },
   {
     "channel_id": "UCVTYdLGxuq3Gm3vRed-gTCQ",
@@ -862,8 +862,8 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.869Z",
-    "subscribers": 35100
+    "last_synced_at": "2026-10-12T00:09:27.395Z",
+    "subscribers": 35200
   },
   {
     "channel_id": "UCrzQrOZ94Xj5FIbB1q_1G_Q",
@@ -871,7 +871,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-10T00:28:24.987Z",
+    "last_synced_at": "2026-10-12T00:09:27.415Z",
     "subscribers": 34700
   },
   {
@@ -898,7 +898,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "side_dish",
-    "last_synced_at": "2026-10-10T00:28:25.029Z",
+    "last_synced_at": "2026-10-12T00:09:27.401Z",
     "subscribers": 30100
   },
   {
@@ -917,7 +917,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.053Z",
-    "subscribers": 27300
+    "subscribers": 27400
   },
   {
     "channel_id": "UCEXcndSB-po1MAb_cb6EVaA",
@@ -943,7 +943,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.973Z",
+    "last_synced_at": "2026-10-12T00:09:27.418Z",
     "subscribers": 18700
   },
   {
@@ -952,7 +952,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-10T00:28:24.930Z",
+    "last_synced_at": "2026-10-12T00:09:27.588Z",
     "subscribers": 16700
   },
   {
@@ -1007,7 +1007,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-11T00:04:16.316Z",
-    "subscribers": 1080000
+    "subscribers": 1090000
   },
   {
     "channel_id": "UC9She1e6OWUpwJpwZtbqhjQ",
@@ -1035,7 +1035,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.001Z",
-    "subscribers": 693000
+    "subscribers": 694000
   },
   {
     "channel_id": "UCrn5CaT8RoeFGpWJdmO4OwA",
@@ -1044,7 +1044,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:24.957Z",
-    "subscribers": 637000
+    "subscribers": 638000
   },
   {
     "channel_id": "UCOU8XYXbXE6oyboOZLV_w5g",
@@ -1053,7 +1053,7 @@
     "priority": 3,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:25.049Z",
-    "subscribers": 438000
+    "subscribers": 439000
   },
   {
     "channel_id": "UCRcj0GSaOmDdFukahVS4u1A",
@@ -1071,7 +1071,7 @@
     "priority": 3,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:25.128Z",
-    "subscribers": 185000
+    "subscribers": 184000
   },
   {
     "channel_id": "UC1bw8ccHz3yKBkImaVgEwdg",
@@ -1107,7 +1107,7 @@
     "priority": 3,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:25.008Z",
-    "subscribers": 80700
+    "subscribers": 81000
   },
   {
     "channel_id": "UCdEeiO2lSCCAgiDOwdaLgrQ",
@@ -1116,7 +1116,7 @@
     "priority": 3,
     "category_hint": "meal",
     "last_synced_at": "2026-10-11T00:04:16.300Z",
-    "subscribers": 57400
+    "subscribers": 57700
   },
   {
     "channel_id": "UCepLjVoNirPHYWI5andIRPg",
@@ -1197,8 +1197,8 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.954Z",
-    "subscribers": 76400
+    "last_synced_at": "2026-10-12T00:09:27.407Z",
+    "subscribers": 76500
   },
   {
     "channel_id": "UCdzRetklJZcznLAjW0pHgpQ",
@@ -1235,7 +1235,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:24.873Z",
-    "subscribers": 180000,
+    "subscribers": 181000,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
   },
@@ -1245,7 +1245,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.976Z",
+    "last_synced_at": "2026-10-12T00:09:27.427Z",
     "subscribers": 125000,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
@@ -1257,7 +1257,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.058Z",
-    "subscribers": 83200,
+    "subscribers": 83100,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
   },
@@ -1289,7 +1289,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-10T00:28:24.975Z",
+    "last_synced_at": "2026-10-12T00:09:27.407Z",
     "subscribers": 40500,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
@@ -1345,7 +1345,7 @@
     "priority": 2,
     "category_hint": "side_dish",
     "last_synced_at": "2026-10-10T00:28:24.920Z",
-    "subscribers": 98200,
+    "subscribers": 98300,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
   },
@@ -1421,7 +1421,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-10T00:28:25.009Z",
+    "last_synced_at": "2026-10-12T00:09:27.425Z",
     "subscribers": 93100,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
@@ -1443,8 +1443,8 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.179Z",
-    "subscribers": 45000,
+    "last_synced_at": "2026-10-12T00:09:27.420Z",
+    "subscribers": 45100,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
   },
@@ -1509,8 +1509,8 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "snack",
-    "last_synced_at": "2026-10-10T00:28:24.934Z",
-    "subscribers": 56600,
+    "last_synced_at": "2026-10-12T00:09:27.398Z",
+    "subscribers": 57200,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
   },
@@ -1542,7 +1542,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-11T00:04:16.149Z",
+    "last_synced_at": "2026-10-12T00:09:27.410Z",
     "subscribers": 660000,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
@@ -1553,7 +1553,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.037Z",
+    "last_synced_at": "2026-10-12T00:09:27.424Z",
     "subscribers": 179000,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
@@ -1685,7 +1685,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-11T00:04:16.521Z",
+    "last_synced_at": "2026-10-12T00:09:27.715Z",
     "subscribers": 32800,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
@@ -1697,7 +1697,7 @@
     "priority": 2,
     "category_hint": "side_dish",
     "last_synced_at": "2026-10-10T00:28:25.028Z",
-    "subscribers": 246000,
+    "subscribers": 247000,
     "added_at": "2026-09-14",
     "added_by": "discover-4차"
   },
@@ -1719,7 +1719,7 @@
     "priority": 2,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:25.284Z",
-    "subscribers": 399000,
+    "subscribers": 400000,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -1763,7 +1763,7 @@
     "priority": 2,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:25.007Z",
-    "subscribers": 120000,
+    "subscribers": 121000,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -1784,7 +1784,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.988Z",
+    "last_synced_at": "2026-10-12T00:09:27.410Z",
     "subscribers": 75600,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
@@ -1817,7 +1817,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.017Z",
+    "last_synced_at": "2026-10-12T00:09:27.486Z",
     "subscribers": 54600,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
@@ -1840,7 +1840,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.048Z",
-    "subscribers": 51700,
+    "subscribers": 51800,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -1851,7 +1851,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:24.996Z",
-    "subscribers": 50800,
+    "subscribers": 50900,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -1883,7 +1883,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.022Z",
+    "last_synced_at": "2026-10-12T00:09:27.417Z",
     "subscribers": 29100,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
@@ -1895,7 +1895,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-11T00:04:16.604Z",
-    "subscribers": 30100,
+    "subscribers": 30200,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -1905,7 +1905,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.013Z",
+    "last_synced_at": "2026-10-12T00:09:27.423Z",
     "subscribers": 28200,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
@@ -1939,7 +1939,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.039Z",
-    "subscribers": 26300,
+    "subscribers": 26500,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -1949,7 +1949,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-10T00:28:25.030Z",
+    "last_synced_at": "2026-10-12T00:09:27.422Z",
     "subscribers": 24500,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
@@ -1961,7 +1961,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.217Z",
-    "subscribers": 27300,
+    "subscribers": 27400,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -1982,8 +1982,8 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "healthy",
-    "last_synced_at": "2026-10-10T00:28:25.017Z",
-    "subscribers": 24200,
+    "last_synced_at": "2026-10-12T00:09:27.523Z",
+    "subscribers": 24400,
     "added_at": "2026-09-14",
     "added_by": "discover-4차-2"
   },
@@ -2026,7 +2026,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.272Z",
+    "last_synced_at": "2026-10-12T00:09:27.430Z",
     "subscribers": 1350000,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2037,7 +2037,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.057Z",
+    "last_synced_at": "2026-10-12T00:09:27.434Z",
     "subscribers": 961000,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2081,7 +2081,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.202Z",
+    "last_synced_at": "2026-10-12T00:09:27.430Z",
     "subscribers": 274000,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2093,7 +2093,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-11T00:04:16.393Z",
-    "subscribers": 251000,
+    "subscribers": 252000,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
   },
@@ -2137,7 +2137,7 @@
     "priority": 2,
     "category_hint": "healthy",
     "last_synced_at": "2026-10-10T00:28:24.997Z",
-    "subscribers": 164000,
+    "subscribers": 165000,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
   },
@@ -2170,7 +2170,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:24.989Z",
-    "subscribers": 72300,
+    "subscribers": 72400,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
   },
@@ -2192,7 +2192,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.052Z",
-    "subscribers": 55500,
+    "subscribers": 55900,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
   },
@@ -2214,7 +2214,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.039Z",
-    "subscribers": 52400,
+    "subscribers": 52700,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
   },
@@ -2246,7 +2246,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.997Z",
+    "last_synced_at": "2026-10-12T00:09:27.430Z",
     "subscribers": 31300,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2312,7 +2312,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "side_dish",
-    "last_synced_at": "2026-10-10T00:28:25.010Z",
+    "last_synced_at": "2026-10-12T00:09:27.451Z",
     "subscribers": 21500,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2334,7 +2334,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-11T00:04:16.567Z",
+    "last_synced_at": "2026-10-12T00:09:27.502Z",
     "subscribers": 18300,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2346,7 +2346,7 @@
     "priority": 2,
     "category_hint": "meal",
     "last_synced_at": "2026-10-10T00:28:25.056Z",
-    "subscribers": 15400,
+    "subscribers": 15600,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
   },
@@ -2378,7 +2378,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.990Z",
+    "last_synced_at": "2026-10-12T00:09:27.745Z",
     "subscribers": 14700,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2411,7 +2411,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "side_dish",
-    "last_synced_at": "2026-10-10T00:28:25.046Z",
+    "last_synced_at": "2026-10-12T00:09:27.467Z",
     "subscribers": 13100,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2444,8 +2444,8 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.239Z",
-    "subscribers": 31200,
+    "last_synced_at": "2026-10-12T00:09:27.797Z",
+    "subscribers": 31900,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
   },
@@ -2499,7 +2499,7 @@
     "enabled": true,
     "priority": 2,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.019Z",
+    "last_synced_at": "2026-10-12T00:09:27.541Z",
     "subscribers": 10500,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-1순위"
@@ -2587,7 +2587,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:24.972Z",
+    "last_synced_at": "2026-10-12T00:09:27.491Z",
     "subscribers": 117000,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-2순위"
@@ -2642,7 +2642,7 @@
     "enabled": true,
     "priority": 3,
     "category_hint": "meal",
-    "last_synced_at": "2026-10-10T00:28:25.024Z",
+    "last_synced_at": "2026-10-12T00:09:27.877Z",
     "subscribers": 16100,
     "added_at": "2026-09-14",
     "added_by": "discover-5차-2순위"

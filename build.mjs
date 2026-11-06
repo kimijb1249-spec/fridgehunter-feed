@@ -182,10 +182,18 @@ function tagIngredients(title) {
 }
 // 레시피 이름(3글자 이상)이 제목에 통째로 들어 있으면 잇는다. 긴 이름 우선(「김치볶음밥」 > 「볶음밥」).
 // 🔴 2글자는 오탐이다 — 「아삭」이라는 레시피가 「아삭한 열무김치」에 붙었다(실측). 2글자 레시피(잡채·팥죽)는 검수로 잇는다.
-const RECIPE_NAMES = recipeNames.filter((r) => r.name.length >= 3).sort((a, b) => b.name.length - a.name.length);
+// 13회(11-07): 흔한 표기 차이(돈까스·오무라이스·부찌·찌게)를 맞추고, 오탐이 없던 2글자 요리 이름만 허용 목록으로 잇는다.
+// 「아삭」「간장」「된장」처럼 재료·말버릇과 겹치는 2글자는 여전히 검수로만.
+const SPELLING = [[/돈까스/g, '돈가스'], [/오무라이스/g, '오므라이스'], [/부찌/g, '부대찌개'], [/찌게/g, '찌개'], [/떡뽁이/g, '떡볶이']];
+const compactName = (s) => SPELLING.reduce((t, [re, to]) => t.replace(re, to), s.replace(/[\s·]+/g, ''));
+const SAFE_TWO = new Set(['잡채', '냉면', '팥죽', '떡국', '송편', '육회', '곰탕', '쫄면', '약과', '화전', '약식', '쌈밥', '컵밥', '찰밥', '잣죽', '알탕']);
+const RECIPE_NAMES = recipeNames
+  .filter((r) => r.name.replace(/\s+/g, '').length >= 3 || SAFE_TWO.has(r.name.replace(/\s+/g, '')))
+  .map((r) => ({ id: r.id, name: r.name, key: compactName(r.name) }))
+  .sort((a, b) => b.key.length - a.key.length);
 function matchRecipe(title) {
-  const compact = title.replace(/\s+/g, '');
-  const hit = RECIPE_NAMES.find((r) => compact.includes(r.name.replace(/\s+/g, '')));
+  const compact = compactName(title);
+  const hit = RECIPE_NAMES.find((r) => compact.includes(r.key));
   return hit ? hit.id : null;
 }
 

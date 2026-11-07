@@ -184,16 +184,29 @@ function tagIngredients(title) {
 // 🔴 2글자는 오탐이다 — 「아삭」이라는 레시피가 「아삭한 열무김치」에 붙었다(실측). 2글자 레시피(잡채·팥죽)는 검수로 잇는다.
 // 13회(11-07): 흔한 표기 차이(돈까스·오무라이스·부찌·찌게)를 맞추고, 오탐이 없던 2글자 요리 이름만 허용 목록으로 잇는다(「쌈밥」은 「쌈밥 김밥」에 붙어 뺌).
 // 「아삭」「간장」「된장」처럼 재료·말버릇과 겹치는 2글자는 여전히 검수로만.
-const SPELLING = [[/돈까스/g, '돈가스'], [/오무라이스/g, '오므라이스'], [/부찌/g, '부대찌개'], [/찌게/g, '찌개'], [/떡뽁이/g, '떡볶이']];
+const SPELLING = [[/돈까스/g, '돈가스'], [/오무라이스/g, '오므라이스'], [/(?<!두)부찌/g, '부대찌개'], [/찌게/g, '찌개'], [/떡뽁이/g, '떡볶이']];
 const compactName = (s) => SPELLING.reduce((t, [re, to]) => t.replace(re, to), s.replace(/[\s·]+/g, ''));
 const SAFE_TWO = new Set(['잡채', '냉면', '팥죽', '떡국', '송편', '육회', '곰탕', '쫄면', '약과', '화전', '약식', '컵밥', '찰밥', '잣죽', '알탕']);
 const RECIPE_NAMES = recipeNames
   .filter((r) => r.name.replace(/\s+/g, '').length >= 3 || SAFE_TWO.has(r.name.replace(/\s+/g, '')))
   .map((r) => ({ id: r.id, name: r.name, key: compactName(r.name) }))
   .sort((a, b) => b.key.length - a.key.length);
+// 13회 표본(품질 11-07): 2글자는 제목 안 다른 요리 이름에도 들어간다(가지잡채·어알탕·떡국떡·사리곰탕·냉면김치·컵밥버거·잡채맛).
+// 띄어 쓴 원래 제목에서 앞뒤가 한글 낱말이면 자동으로 잇지 않는다 → recipeId 없음 → 검수 큐로. 뒤에 「만들기」「레시피」 같은 말·조사 하나만 허용.
+const HANGUL = /[가-힣]/;
+const TWO_OK_AFTER = /^(만들기|만드는|레시피|황금레시피|끓이|요리|(?:가|이|은|는|의|도)(?![가-힣]))/; // 조사 하나 뒤 띄어쓰기는 같은 요리(「잡채가 불지를」)
+function twoLetterAlone(title, key) {
+  const t = SPELLING.reduce((x, [re, to]) => x.replace(re, to), title);
+  for (let i = t.indexOf(key); i !== -1; i = t.indexOf(key, i + 1)) {
+    const before = t[i - 1] ?? '';
+    const rest = t.slice(i + key.length);
+    if (!HANGUL.test(before) && (!HANGUL.test(rest[0] ?? '') || TWO_OK_AFTER.test(rest))) return true;
+  }
+  return false;
+}
 function matchRecipe(title) {
   const compact = compactName(title);
-  const hit = RECIPE_NAMES.find((r) => compact.includes(r.key));
+  const hit = RECIPE_NAMES.find((r) => compact.includes(r.key) && (r.key.length > 2 || twoLetterAlone(title, r.key)));
   return hit ? hit.id : null;
 }
 
